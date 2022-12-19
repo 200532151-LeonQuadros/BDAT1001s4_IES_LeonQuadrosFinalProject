@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "r+w+Kw0ulOEEPjXb4IgIOpyHKDkw4BpQgPueqvlv3UXUagKfbLB0YvTmR0WNlu9CbbEhKYdryHKjtBbkpevZhQ==",
+  "dgSpecHash": "FZ32agCtnwHPf2jDajOUNzeM5fCALm5cnj5JcHOmHyNhCxqElynhQkCgpu9/8Y1f1hllqQaCggT4LYviXraD1Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\leonq\\Downloads\\FINAL\\dotNetCore\\ContactManager.csproj",
+  "projectFilePath": "C:\\Users\\leonq\\OneDrive\\Documents\\GitHub\\BDAT1001s4_IES_LeonQuadrosFinalProject\\BDAT1001s4_FinalProject_LeonQuadros_Group10\\dotNetCore\\ContactManager.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\leonq\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\leonq\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",
